@@ -14,11 +14,6 @@
 </div>
 
 ##
-
-![brunosluz's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosluz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosluz&layout=compact&theme=github_dark)](https://github.com/brunosluz) 
-
-##
   
 <div style="display: inline_block">
   <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
