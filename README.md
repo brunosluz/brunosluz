@@ -3,7 +3,7 @@
 ##
 
 - 📚 Agora ... estudando PHP;
-- 🛠️ e ... ansioso para dominar e aplicar esse conhecimento;
+- 🛠️ e ... ansioso para aplicar esse conhecimento;
 - 💎 Máxima: "Uma longa caminhada começa com o primeiro passo!" Lao-Tsé
 
 <div style="display: inline-block">
