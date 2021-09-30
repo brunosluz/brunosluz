@@ -1,4 +1,4 @@
-### <olá> Eu sou o Bruno sLuz </olá>
+### <olá> Sou Bruno sLuz </olá>
 
 ##
 
