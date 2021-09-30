@@ -2,7 +2,7 @@
 
 ##
 
-- 📚 Agora ... estudando PHP;
+- 📚 Agora ... estudando HMTL, CSS e PHP;
 - 🛠️ e ... ansioso para dominar e aplicar esse conhecimento;
 - 💎 Máxima: "Uma longa caminhada começa com o primeiro passo!" Lao-Tsé
 
