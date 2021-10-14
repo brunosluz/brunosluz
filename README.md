@@ -9,8 +9,8 @@
 <div style="display: inline-block">
   <!-- <a href="https://beacons.ai/brunosluz" -->
   <a href="https://github.com/brunosluz">
-  <img style="float: right" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosluz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img style="float: left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosluz&layout=default&theme=omni"/>
+  <img style="float: right" height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosluz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img style="float: left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosluz&layout=default&theme=midnight-purple"/>
 </div>
 
 ##
