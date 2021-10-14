@@ -28,7 +28,5 @@
   <a href="https://www.linkedin.com/in/#" target="_blank"><img align="right" alt="Js" height="30" width="112" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a -->
   <a href="mailto:sluz.brunoc@gmail.com"><img align="right" alt="Js" height="30" width="88" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<div style="display: inline_block">  
- 
-![Snake animation](https://github.com/cadudias/cadudias/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/brunosluz/brunosluz/blob/output/github-contribution-grid-snake.svg)
